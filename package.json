@@ -1,0 +1,20 @@
+{
+  "name": "chris-tech-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CTripleF/chris-tech-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CTripleF/chris-tech-blog/issues"
+  },
+  "homepage": "https://github.com/CTripleF/chris-tech-blog#readme"
+}
